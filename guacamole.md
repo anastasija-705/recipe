@@ -3,11 +3,12 @@ Ingredients:
 - 1 lime
 - 2 tsp salt
 - jalapeno to taste
+- 1 tsp sugar
 
 Instructions:
 - cut and mash avocados
 - chop onion
 - chop the jalapeno
 - squeeze lime
-- add salt
+- add salt and sugar
 - and mix well
